@@ -1,0 +1,193 @@
+body{
+  width: 360px;
+  height:600px;
+  background-image:url(back.jpeg)
+}
+
+#nav{
+  background-color:#00372D;
+  width: 360px;
+  height: 55px;
+}
+
+#note h1{
+  font-family: sans-serif;
+  font-weight: bold;
+  color: red ;
+  font-size: 15px;
+  text-align: center;
+}
+
+#menu{
+  width: 26px;
+  height: 26px;
+  padding-left: 20px;
+  
+}
+
+#logo{
+  width: 40px;
+  height: 40px;
+  padding-top: 5px;
+}
+
+#profile{
+  width: 30px;
+  height: 30px;
+}
+
+#content1{
+  width: 360px;
+  height: 200px;
+}
+
+#pic1{
+  float: left;
+  padding-left: 20px;
+  cursor: pointer;
+}
+#pic1 h1{
+  font-size: 10px;
+  font-family: verdana;
+  font-weight: bold;
+  color:white;
+  text-align: center;
+}
+
+#pic2{
+  float: right;
+  padding-left: 20px;
+  cursor: pointer;
+  }
+  
+#pic2 h1{
+  font-size: 10px;
+  font-family: verdana;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+
+}
+
+
+#pic3{
+  float: left;
+  padding-left:20px;
+  cursor:pointer;
+  
+  }
+#pic3 h1{
+  font-size: 10px;
+  font-family: verdana;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+
+}
+
+
+#pic4{
+  float: right;
+  padding-left: 20px;
+  cursor: pointer;
+}
+#pic4 h1{
+  font-size: 10px;
+  font-family: verdana;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+
+  
+}
+
+#pic5{
+  float: right;
+  padding-left: 20px;
+  cursor: pointer;
+}
+#pic5 h1{
+  font-size: 10px;
+  font-family: verdana;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+
+}
+
+#pic6{
+  float: right;
+  padding-left: 20px;
+  cursor: pointer;
+}
+#pic6 h1{
+  font-size: 10px;
+  font-family: verdana;
+  font-weight: bold;
+  color:white;
+  text-align: center;
+}
+
+#links{
+  width: 350px;
+  height: 40px;
+  margin-top: 80px;
+
+}  
+
+#links a{
+  display: inline-block;
+  border-radius: 10px;
+  border: 2px solid yellow;
+  color: yellow;
+  padding: 5px 10px;
+  text-decoration: none;
+  font-weight: bold;
+  font-family: sans-serif;
+  font-size: 10px;
+  margin-left: 40px;
+  background-color: black;
+}
+
+#links #adv{
+  color: black;
+  background: yellow;
+}
+
+#footer{
+  padding-left: 75px;
+  margin: auto;
+}
+
+#footer p{
+  font-weight: bold;
+  font-size: 10px;
+  font-family: sans-serif;
+  text-align: center;
+  margin-right: 80px;
+  color: lightcyan;
+}
+
+.face{
+  width: 20px;
+  height: 20px;
+}
+
+.insta{
+  width: 20px;
+  height: 20px;
+}
+
+.twitt{
+  width: 20px;
+  height: 20px;
+}
+
+.you{
+  width: 20px;
+  height: 20px;
+}
+
+img{
+  border-radius: 20%;
+}

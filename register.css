@@ -1,0 +1,120 @@
+#frame {
+  width: 360px;
+  height: 600px;
+  background-image: url(back.jpeg);
+}
+
+#nav {
+  width: 360px;
+  height: 60px;
+  background-color: #00372D;
+
+}
+
+
+
+#menu {
+  width: 25px;
+  height: 25px;
+  padding-left: 17px;
+  padding-top: 15px;
+
+}
+
+#logo {
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+}
+
+
+#profile {
+  width: 27px;
+  height: 27px;
+}
+
+#intro h1{
+  font-size: 22px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  color: navajowhite;
+  text-align: center;
+}
+
+#footer{
+  padding-left: 75px;
+  margin: auto;
+}
+
+#footer p{
+  font-weight: bold;
+  font-size: 10px;
+  font-family: sans-serif;
+  text-align: center;
+  margin-right: 80px;
+  color: lightcyan;
+}
+
+.face{
+  width: 20px;
+  height: 20px;
+}
+
+.insta{
+  width: 20px;
+  height: 20px;
+}
+
+.twitt{
+  width: 20px;
+  height: 20px;
+}
+
+.you{
+  width: 20px;
+  height: 20px;
+}
+
+::placeholder{
+  text-align: center;
+  font-size: 13px;
+}
+
+button{
+  width: 115px;
+  height: 30px;
+  box-sizing: border-box;
+  outline: none;
+  border-radius: 10px;
+  background-color:navajowhite;
+  border: 2px solid gray;
+  font-size: 16px;
+  text-align: center;
+  font-weight: bold;
+  color: black;
+  margin-left: 120px;
+  margin-top: 20px;
+}
+
+.submibutton{
+  border: 2px solid ;
+}
+
+
+#regcontent p{
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  margin-left: 15px;
+}
+
+.inputbx{
+  width: 150px;
+  height: 25px;
+  border: 1px solid darkcyan;
+  border-radius: 10px;
+  float: right;
+  line-height: 30px;
+  margin-right: 10px;
+}

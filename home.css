@@ -1,0 +1,108 @@
+#frame{
+  width: 360px;
+  height: 600px;
+  background-image: url(back.jpeg);
+}
+
+#nav{
+width: 360px;
+height: 60px;
+background-color: #00372D;
+
+}
+
+  
+
+#menu{
+width: 30px;
+height: 30px;
+padding-left: 17px;
+padding-top: 15px;
+
+}
+
+#logo{
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+}
+
+
+#profile{
+width: 27px;
+height: 27px;
+}
+
+#header {
+  width: 360px;
+  height: 40px;
+  margin:auto;
+
+  
+}
+
+#loog{
+  width: 130px;
+  height: 70px;
+  padding-left: 120px;
+  padding-top: 1px;
+}
+
+#header h2{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  font-size: 35px;
+  color: white;
+  text-align: center;
+}
+
+#header h1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  font-size: 35px;
+  color: white;
+  text-align: center;
+}
+
+#header p{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+  color: white;
+  text-align: center;
+  margin-right: 10px;
+  margin-left:10px;
+}
+
+#footer{
+  padding-left: 75px;
+  margin: auto;
+}
+
+#footer p{
+  font-weight: bold;
+  font-size: 10px;
+  font-family: sans-serif;
+  text-align: center;
+  margin-right: 80px;
+  color: lightcyan;
+}
+
+.face{
+  width: 20px;
+  height: 20px;
+}
+
+.insta{
+  width: 20px;
+  height: 20px;
+}
+
+.twitt{
+  width: 20px;
+  height: 20px;
+}
+
+.you{
+  width: 20px;
+  height: 20px;
+}
